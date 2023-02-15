@@ -1,0 +1,8 @@
+- Team 1 - Swapy
+- Participants: 
+    - Omar Hegazy
+    - Ammar Afridi
+    - Ahmed Elsherif
+- Project Aim
+    - The project aim to provide a social service, where members can share their old belongings, such as tools/reusable items, by leasing them out for a fee or even selling them.
+    - This will be somewhat similar to dubizzle, but with a more focus on the sharing and social service aspect.
